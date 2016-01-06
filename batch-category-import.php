@@ -121,7 +121,7 @@ if(!class_exists("CategoryImport")) {
 			</p>
 		</form>
 	</div>
-<?
+<?php
 		}
 	}
 }
